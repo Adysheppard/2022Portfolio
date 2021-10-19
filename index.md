@@ -14,6 +14,23 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+body {
+     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000;
+}
+
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
 
 - Bulleted
 - List
